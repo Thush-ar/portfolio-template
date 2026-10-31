@@ -1,19 +1,36 @@
 {
-    "name": "Your Name",
-    "tagline": "Your one-line introduction",
-    "bio": "Write 2 or 3 sentences about yourself.",
+    "name": "Thushar",
+    "tagline": "Building things, breaking things, learning from both",
+    "bio": "I'm Thushar, a CSE (AI) undergraduate at TKMCE. I like taking things apart to see how they work, then building my own versions, from a machine learning model that spots fake product reviews to PaLO, an offline study app. When I'm not coding, I'm reading, usually something with a good story.",
     "skills": [
         "Git",
-        "HTML"
+        "HTML",
+        "Python",
+        "Java",
+        "CSS",
+        "C",
+        "Sys commands",
+        "DBMS"
     ],
     "projects": [
         {
-            "title": "My first project",
-            "desc": "What it does.",
-            "link": "https://github.com/yourname"
+            "title": "Fake product review analyzer",
+            "desc": "Machine learning project that uses an SVM classifier to flag product reviews as fake or genuine.",
+            "link": "https://github.com/Thush-ar/fake-product-review-analyzer"
+        },
+        {
+            "title": "PaLO",
+            "desc": "A desktop study app that works fully offline, built to help people learn and revise more effectively.",
+            "link": "https://github.com/Thush-ar/palo"
+        },
+        {
+            "title": "Voice for Bharat by murf ai",
+            "desc": "AI-powered tutor built for the Voice for Bharat challenge, using the Murf AI voice API.",
+            "link": "https://github.com/Thush-ar/murfVoiceForBharat"
         }
     ],
     "links": {
-        "github": "https://github.com/yourname"
+        "github": "https://github.com/Thush-ar/",
+        "linkedin": "https://www.linkedin.com/in/thushar-jayaprakash/"
     }
 }
